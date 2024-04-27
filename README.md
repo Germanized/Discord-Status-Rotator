@@ -1,4 +1,4 @@
-# Discord Status Changer (thats actually free dont pay for one please pronhubstar freeware on top)
+# Discord Status Changer (thats actually free dont pay for one please pronhubstar freeware on top) just fixed it it was being a biatch
 
 This script allows you to change the status of your Discord account automatically from the statuses defined in a text file.
 
