@@ -44,7 +44,7 @@ def gradient_text(text):
     start_color = Fore.BLUE
     end_color = Fore.CYAN
 
-     (R, G, B)
+    
     start_rgb = (0, 0, 139)  
     end_rgb = (0, 255, 255)  
 
