@@ -11,7 +11,7 @@ Requirements
 Clone this repository:
 
 ```bash
-gh repo clone Germanized/discord-status-changer
+gh repo clone Germanized/Discord-Status-Rotator
 ```
 
 You can install the necessary shit  by running the following command:
